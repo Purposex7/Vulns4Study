@@ -3,7 +3,7 @@
 ## Basic Info
 
 - **Exploit Title:** REDAXO Cronjobs AddOns RCE
-- **Exploit Author:**L7dia
+- **Exploit Author:** L7dia
 - **Vendor Homepage:** https://redaxo.org/
 - **Software Link:** https://github.com/redaxo/redaxo
 - **Version:** 2.11.0
